@@ -3,12 +3,7 @@
   "version": "0.2.7",
   "description": "Query information from a running Source Dedicated Server (SRCDS) using UDP/IP packets.",
   "keywords": [
-    "A2S_INFO",
-    "dedicated server",
-    "game server",
-    "source",
-    "SRCDS",
-    "UDP"
+    "deprecated"
   ],
   "homepage": "https://github.com/Stassi/sourcemeter#readme",
   "license": "MIT",
